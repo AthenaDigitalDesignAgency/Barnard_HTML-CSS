@@ -4,5 +4,7 @@ DOM- Document Object model-
 
 HTML- Hyper Text Markup Langage- Known as the building blocks of the web
 
-CSS- Casscading style sheet
+CSS- Casscading style sheet- Key: Bottom Stylesheet always wins
+
+Stylesheet- Your CSS file
 

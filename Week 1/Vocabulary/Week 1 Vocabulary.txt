@@ -1,0 +1,8 @@
+Week 1 Vocabulary-
+
+DOM- Document Object model-
+
+HTML- Hyper Text Markup Langage- Known as the building blocks of the web
+
+CSS- Casscading style sheet
+

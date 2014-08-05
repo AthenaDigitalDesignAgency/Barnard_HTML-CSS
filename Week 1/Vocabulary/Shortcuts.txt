@@ -21,3 +21,4 @@ CMD + SHIFT + T - Brings a tab back you have closed.
 CMD + P - Print
 
 CMD + 
+

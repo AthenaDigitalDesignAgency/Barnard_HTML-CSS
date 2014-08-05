@@ -8,3 +8,11 @@ CSS- Casscading style sheet- Key: Bottom Stylesheet always wins
 
 Stylesheet- Your CSS file
 
+Front-End/ Client side- Anything the "client" or user will see
+
+Back-End/ Server Side- Anything that happens behind the scenes, i.e. database calls, Ajax requests
+
+FullStack- Client and server side programing
+
+Ajax- The most wonderful thing to happen to the internet- Auto refreshes your page data
+

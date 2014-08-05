@@ -1,0 +1,23 @@
+Short Cuts you should know-
+
+CMD + C - Copy
+
+CMD + V - Paste
+
+CMD + A - Select all
+
+CMD + S - Save
+
+CMD + R - Refresh Screen
+
+CMS + SHIFT + R - Hard refresh Remove Cache
+
+CMD + T - New Tab
+
+Cmd + N - New window
+
+CMD + SHIFT + T - Brings a tab back you have closed.
+
+CMD + P - Print
+
+CMD + 

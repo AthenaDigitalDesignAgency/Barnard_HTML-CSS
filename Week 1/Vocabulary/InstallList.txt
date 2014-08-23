@@ -1,10 +1,14 @@
-sublime
+sublime text editor
 
 jumpcut
 
 chrome
 
 github
+
+
+
+
 
 
 

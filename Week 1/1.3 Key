@@ -12,7 +12,7 @@
 12.)<cite>Citation- not meant for citing a person's name in HTML5</cite>
 13.)<p><dfn>Awesome</dfn>You for taking this step to learn to code. Dfn indicates a definition of a new term & shouls surront the word- not the definition iteslf</p> 
 14.)<address>
-<p><a href="mailto:imjessw@gmail.com"></a>ImJessW@gmail.com</p><p>The structure is a bit different on this, look at the code!</p>
+<p><a href="mailto:imjessw@gmail.com">ImJessW@gmail.com</a></p><p>The structure is a bit different on this, look at the code!</p>
 </address>
 15.)<p><ins>When you insert something into a document</ins></p>
 16.)<p><del>When you Delete something into a document</del></p>
@@ -39,5 +39,6 @@
 			</ul>
 		<li>list 2 unordered</li>
 	</ul>
-
+22.)<a href="imjessw.com">My Website</a>
+23.)<a href="mailto:imjessw@gmail.com">Email Me</a>
 

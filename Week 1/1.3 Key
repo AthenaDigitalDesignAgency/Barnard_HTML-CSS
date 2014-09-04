@@ -1,0 +1,13 @@
+1.) <b>Bold</b>
+2.) <i>Italics</i>
+3.) <p>E=MC<sup>2</sup></p> Super script
+4.) <p>H<sup>2</sup>O</p> Subscript
+5.) <br> line break
+6.) <hr> horizontal rule
+7.) <strong>Stong</strong> Fancy way of saying bold but it is in there so when readersare used on a computers content it emphasises what ever is in the tag
+
+8.) <em>emphasis</em>
+9.) <blockquote><p>Do something you aren't quite ready to do and surround yourself with the smartest people you can find - Marisa Mayer</p></blockquote>
+10.)<p><q>Shorter quotes that can fo inside a paragraph goe here</q></p>
+11.)<abbr="National Aeronautics and Space Administration">NASA<abbr>
+

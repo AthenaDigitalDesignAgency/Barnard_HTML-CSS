@@ -10,4 +10,7 @@
 9.) <blockquote><p>Do something you aren't quite ready to do and surround yourself with the smartest people you can find - Marisa Mayer</p></blockquote>
 10.)<p><q>Shorter quotes that can fo inside a paragraph goe here</q></p>
 11.)<abbr="National Aeronautics and Space Administration">NASA<abbr>
+12.)<cite>Citation- not meant for citing a person's name in HTML5</cite>
+13.)<p>Awesome<dfn>You for taking this step to learn to code</dfn>. Dfn indicates a definition of a new term</p> 
+
 

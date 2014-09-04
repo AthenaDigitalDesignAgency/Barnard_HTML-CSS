@@ -5,7 +5,6 @@
 5.) <br> line break
 6.) <hr> horizontal rule
 7.) <strong>Stong</strong> Fancy way of saying bold but it is in there so when readersare used on a computers content it emphasises what ever is in the tag
-
 8.) <em>emphasis</em>
 9.) <blockquote><p>Do something you aren't quite ready to do and surround yourself with the smartest people you can find - Marisa Mayer</p></blockquote>
 10.)<p><q>Shorter quotes that can fo inside a paragraph goe here</q></p>
@@ -15,5 +14,19 @@
 14.)<address>
 <p><a href="mailto:imjessw@gmail.com"></a>ImJessW@gmail.com</p><p>The structure is a bit different on this, look at the code!</p>
 </address>
-15.)
+15.)<p><ins>When you insert something into a document</ins></p>
+16.)<p><del>When you Delete something into a document</del></p>
+17.)<p><s>When something is no longer accurate in a document</s></p>
+18.)<ol>
+		<li>list1 ordered</li>
+		<li>list2 ordered</li>
+	</ol>
 
+19.)<ul>
+		<li>list 1 unordered</li>
+		<li>list 2 unordered</li>
+	</ul>
+
+20.)<dl>
+		<dt>Awesome</dt>
+		<dd>You!</dl>

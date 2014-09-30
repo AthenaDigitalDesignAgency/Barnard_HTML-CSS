@@ -9,6 +9,7 @@ body{
 li{
 	list-style: none;
 	display: inline;
-	text-align: right;
+	float:right;
+	padding:10px;
 }
 

@@ -1,0 +1,12 @@
+body{
+	background:peachpuff;
+}
+/*body{
+	background-image: url("sparkle.jpg");
+
+}*/
+
+li{
+	list-style: none;
+	display: inline;
+}

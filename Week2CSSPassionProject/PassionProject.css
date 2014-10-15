@@ -1,5 +1,7 @@
 body{
+	font-family: 'Roboto', sans-serif;
 	background:peachpuff;
+	background: purple;
 }
 
 
@@ -16,7 +18,8 @@ li{
 	display: inline-block;
 
 }
-.fifty{
+
+.fifty img{
 	width: 50%;
 }
 
@@ -24,6 +27,22 @@ li{
 	float: left;
 }
 
+.center{
+	margin: 0 auto;
+	text-align: center;
+}
+
 .right{
 	float: right;
+}
+
+div{
+	float: none;
+}
+.WhiteText{
+	color: white;
+}
+#vertalign{
+vertical-align:50%;
+;
 }

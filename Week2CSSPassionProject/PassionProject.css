@@ -44,5 +44,9 @@ div{
 }
 #vertalign{
 vertical-align:50%;
-;
+
+}
+
+h1{
+	font-family: 'Roboto Slab', serif;
 }
